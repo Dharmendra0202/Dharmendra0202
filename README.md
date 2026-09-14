@@ -1,107 +1,181 @@
-# Hi 👋, I'm Dharmendra Vishwakarma
+<h1 align="center">Hi 👋, I'm Dharmendra Vishwakarma</h1>
 
-### 🚀 Developer | AI Explorer | Building Practical Solutions
+<h3 align="center">🚀 Full Stack Developer | AI Explorer | Building Practical Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharmendra0202&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+React+Native+%7C+Java;AI+Explorer+%7C+Local+LLMs;Always+Learning+Something+New" />
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharmendra-vishwakarma-7b6716344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-* 🔭 Currently working on **E-CRM**
-* 🌱 Learning **Node.js, Backend Development & System Design**
-* 🤖 Exploring **AI, Local LLMs (Ollama, Qwen)**
-* 👯 Open to collaborate on **Full Stack Projects**
-* 💬 Ask me about **Full Stack Development, React Native, Node.js & AI**
-* 📫 Reach me at **[dv45564@gmail.com](mailto:dv45564@gmail.com)**
-* 🌐 Portfolio: https://portfolio-delta-two-2xdizkvlll.vercel.app/
+  <a href="mailto:dv45564@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=dharmendra0202&label=Profile+Views&style=for-the-badge" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### Frontend
+```yaml
+Name: Dharmendra Vishwakarma
+Location: India 🇮🇳
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react)
+Currently Learning:
+  - Node.js
+  - Backend Development
+  - React Native
+  - System Design
+  - AI & Local LLMs
 
-### Backend
+Ask Me About:
+  - Full Stack Development
+  - Node.js
+  - React Native
+  - Java
+  - AI & Ollama
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+Current Focus:
+  - Building practical software
+  - Exploring AI applications
+  - Creating real-world solutions
+```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 📌 E-CRM
-
-Customer Relationship Management System.
+Customer Relationship Management Platform
 
 🔗 https://github.com/Dharmendra0202/E_CRM
 
-### 📌 Urbannn Clone
+---
 
-Modern full-stack clone project.
+### 📌 Urbannn Clone
+Modern Full Stack Application
 
 🔗 https://github.com/Dharmendra0202/urbannn
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmendra0202&show_icons=true&theme=github_dark" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra0202&theme=github-dark-blue" />
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra0202&layout=compact&theme=github_dark" />
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### Tools & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,vscode" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-[![Dharmendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharmendra0202\&theme=github-dark)](https://github.com/dharmendra0202)
-
----
-
-## 🏆 GitHub Trophies
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dharmendra0202&theme=darkhub&margin-w=10&row=2&column=4" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dharmendra0202&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra0202&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 💡 Motto
+# 🔥 Contribution Streak
 
-> Building today, improving tomorrow.
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=dharmendra0202&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dharmendra0202&theme=tokyonight&row=1&column=7&margin-w=10" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmendra0202&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Requires GitHub Actions setup
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: dharmendra0202
+          svg_out_path: dist/github-contribution-grid-snake.svg
+```
+
+Then add:
+
+```md
+<p align="center">
+<img src="https://github.com/dharmendra0202/dharmendra0202/blob/output/github-contribution-grid-snake.svg" />
+</p>
+```
+
+---
+
+# 🌐 Portfolio
+
+🔗 https://portfolio-delta-two-2xdizkvlll.vercel.app/
+
+---
+
+# 💭 Quote I Live By
+
+> Building today. Improving tomorrow. 🚀
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider starring a repository!
+</p>
